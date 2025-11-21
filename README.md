@@ -8,7 +8,6 @@ Model parts for FaceApp/FaceServer. Contains split ONNX files and an assemble sc
   - `landmarks_68_pfld.onnx`
   - `recognition_resnet27.onnx`
 - `onnx/assemble.sh` – reassembles all parts into full models.
-- `FaceApp.Models.onnx.parts.zip` – archive of the above for easy distribution (optional).
 
 ## Reassemble
 ```bash
